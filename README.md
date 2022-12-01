@@ -3,7 +3,7 @@ Pasapalabra Doom Edition
 
 En mi opinión, el juego debería ser presentado con un poco de contexto previo para explicar en detalle el por qué de cada elemento, porqué todo está basado en DOOM y en guiños a los juegos de los 90. Pero, en este caso, se deberán seguir estas instrucciones:
 
-1. Todo, absolutamente TODO lo que forma parte del juego es original del juego DOOM original. Eso es, imágenes de fondo, sprites de enemigos y armas, músicas, efectos de sonido, colores, tipografías... todo. Hasta la forma de presentarlo está basada en el juego. Por eso, para apreciar estos detalles es OBLIGATORIO ver este video hasta el minuto 3:22.  https://www.youtube.com/watch?v=lVNaHkfI2OU
+1. Todo, absolutamente TODO lo que forma parte del juego está basado en el DOOM original. Eso es, imágenes de fondo, sprites de enemigos y armas, músicas, efectos de sonido, colores, tipografías... todo. Hasta la forma de presentarlo está basada en el juego. Por eso, para apreciar estos detalles es OBLIGATORIO ver este video hasta el minuto 3:22.  https://www.youtube.com/watch?v=lVNaHkfI2OU
 
 2. El juego tiene bastantes funcionalidades y comandos. No es el típico pasapalabra. Antes de empezar una partida hay que leer el TUTORIAL. Este es un resumen básico:
 
